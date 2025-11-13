@@ -23,7 +23,7 @@ Because bleeding-edge distros keep you sharp. Docker containers run faster when 
 
 ## What I Do
 
-Build full-stack applications. Train ML models. Delete Instagram activity in bulk (yes, really). Optimize workflows. Break things. Fix things. Repeat.
+Build full-stack applications. Train ML models. fight with the rubber duck. Optimize workflows. Break things. Fix things. Repeat.
 
 ---
 
