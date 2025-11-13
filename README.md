@@ -32,7 +32,7 @@ Build full-stack applications. Train ML models. fight with the rubber duck. Opti
 - Building AI-powered apps with generative models
 - Chasing cloud certifications (OCI, AWS)
 - Contributing to open-source when motivation strikes
-- Debugging why Rust still makes me uncomfortable
+- Debugging why  DSA still makes me uncomfortable
 
 ---
 
