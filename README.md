@@ -38,7 +38,7 @@ Build full-stack applications. Train ML models. fight with the rubber duck. Opti
 
 ## Let's Talk
 
-Open to roles in **full-stack development**, **ML engineering**, **data science**. Also open to coffee discussions about why `$` is worse than `./` in bash.
+Open to roles in **full-stack development**, **ML engineering**, **data science**.
 
 ```
 Python • JavaScript • SQL • Bash
